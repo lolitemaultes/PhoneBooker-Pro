@@ -40,7 +40,7 @@ Ensure you have the following installed on your system:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/lolitemaultes/PhoneBooker-pro.git
+   git clone https://github.com/lolitemaultes/PhoneBooker-Pro.git
    cd PhoneBooker-pro
    ```
 
