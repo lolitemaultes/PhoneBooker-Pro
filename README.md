@@ -76,7 +76,9 @@ On launch, the app displays a startup menu:
 
 ## Screenshots
 
-*(Include screenshots of your application's interface)*
+![Screenshot from 2024-11-30 16-16-43](https://github.com/user-attachments/assets/1a7efede-c8c8-44fb-8244-662ddfdf524c)
+![Screenshot from 2024-11-30 16-17-33](https://github.com/user-attachments/assets/a8feb997-dbe9-4342-ac7a-f6dedcdef594)
+![Screenshot from 2024-11-30 16-17-09](https://github.com/user-attachments/assets/6507d2ad-3764-4c1b-97af-5279a7c7b195)
 
 ## Roadmap
 
